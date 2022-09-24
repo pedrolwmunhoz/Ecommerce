@@ -160,7 +160,7 @@ width: 100%;
 }
 .hero-banner-container h1{
   color: white;
-  font-size: 10em;
+  font-size: 8em;
   margin-left: -20px;
   text-transform: uppercase;
 }
@@ -168,10 +168,12 @@ width: 100%;
   position: absolute;
   top: 0%;
   right:20%;
-  width: 450px;
-  height: 450px;
+  width: 550px;
+  height: 550px;
 }
-
+.iconNavBar {
+  cursor: pointer;
+}
 
 .desc{
 position: absolute;
